@@ -148,7 +148,7 @@ int main()
 		}
 	}
 	cout << endl;
-	
+
 	F.close();
 	out.close();
 	fin.close();
